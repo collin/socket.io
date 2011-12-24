@@ -5,4 +5,5 @@
  * MIT Licensed
  */
 
+throw "SANITY CHECK"
 module.exports = require('./lib/socket.io');
